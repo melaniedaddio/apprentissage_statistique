@@ -2,7 +2,6 @@
 
 ## 📌 **Description du projet**  
 Ce projet vise à analyser les données COVID-19 dans les pays asiatiques afin d'identifier les facteurs ayant influencé la propagation du virus, évaluer l'efficacité des mesures sanitaires et repérer les pays nécessitant un soutien extérieur.
-
 ---
 
 ## 📊 **Jeu de données**  
